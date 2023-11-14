@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+#navbar {
+    padding: 0rem 4rem;
+}
+
 #benefits {
     width: 100%;
     height: 10vh;
@@ -27,4 +31,8 @@
 
 .card {
     margin: 40px;
+}
+
+.cart-icon a i {
+    font-size: 1.5rem;
 }
